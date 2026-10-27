@@ -1,6 +1,6 @@
 cask "dug" do
-  version "1.0.0"
-  sha256 "7a1f113a368c9e31f39dfce35c5a37088cff69b234ad74d79ccd0839e5058240"
+  version "1.0.1"
+  sha256 "26664ceeef102f9835725ceb6a3f93dc356889c71b28143c6482a637ad366a63"
 
   url "https://dl.itchscratched.com/dug/Dug-#{version}.dmg"
   name "Dug"
