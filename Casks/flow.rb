@@ -1,6 +1,6 @@
 cask "flow" do
-  version "1.0.1"
-  sha256 "411968d87ae9646de9d2edb4d140a006a5db39b3631c470757089d462f57f927"
+  version "1.0.2"
+  sha256 "4683739d4b8bc89940fb61ce5b59c710526b8db97507de98f76a2b6585a1a626"
 
   url "https://dl.itchscratched.com/flow/Flow-#{version}.dmg"
   name "Flow"
