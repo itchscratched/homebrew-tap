@@ -1,6 +1,6 @@
 cask "polisher" do
-  version "1.2.5"
-  sha256 "fee9ceccad515431b5ee2a9e4a3cf61ea0d084a73aae23994403cd1d17c380c6"
+  version "1.2.6"
+  sha256 "e1f6b4d9c418deeedecb613affbc5522386e5d64ee81d5ec282814f99ef499d4"
 
   url "https://dl.itchscratched.com/polisher/Polisher-#{version}.dmg"
   name "Polisher"
